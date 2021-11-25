@@ -1,4 +1,4 @@
-## [WORKSHOP] - Introduction to OOP using C#
+## [WORKSHOP COBRA] - Introduction to OOP using C#
 Hi everyone, in this workshop, you will be introduced to the basic concepts of the OOP (Object Oriented Programming).
 The OOP is a paradigm that allows you to create objects that contains methods and properties.
 You can make public stuff (usable inside and outside the class), private (that is only usable within the class) and
