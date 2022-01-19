@@ -59,7 +59,7 @@ Override it and make it return `"Vector(x = [VECTOR X PROPERTY] y = [VECTOR Y PR
 Let's create an Animal class. This class will:
  - Contain a position (stored as a Point structure that must be convertible to string)
  - contain a velocity vector (You must overload + operator between points and vectors)
- - Have a `void Move()` method that prints "Hello, human" when called
+ - Have a `void Speak()` method that prints "Hello, human" when called
  - Have a `void Walk()` method that updates position with velocity when called
  - Have a `Vector GetPosition()` method that returns the position when called.
  - Be convertible to string by overriding the ToString method. It must return `Animal(Velocity = [VELOCITY TO STRING], Position = [POSITION TO STRING]`)
